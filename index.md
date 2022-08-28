@@ -88,14 +88,16 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/shop.png)
+<center><img src="assests/images/fraud_detection.jpg"/></center>
+
+
 
 ### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/logo.jpeg)
-
+<center><img src="assests/images/shop.png"/></center>
 
 ### Definition lists can be used with HTML syntax.
+
+<center><img src="assests/images/shop.png"/></center>
 
 <dl>
 <dt>PG Vijay laxmi</dt>
