@@ -6,19 +6,16 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Ladies beauty parlour
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+> This parlour is for only ladies
 
-# Header 1
+## Facial for ladies
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Facial
+> Hair cut
+> Makeup
+> Bridal makeup
 
 ### Header 3
 
@@ -37,79 +34,76 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Facial
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Bleach
+*   VLCC
+*   Ayurvedic facial
 
-##### Header 5
+##### Hair cut
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Normal cuts like baby hair cut, length cuts
+2.  All design haircuts are available with latest costumes, patterns.
 
 ###### Header 6
 
-| head1        | head two          | three |
+| Type         | price          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Eye brow     | 100 rs per eye | specialist  |
+| facial       | from 300 - 3000 rs varies on selected type  | specialist  |
+| Hair cuts    | from 200 - 5000 rs varies on selected design     | specialist   |
+| waxing       | from 350 - 2000 rs wzxing facilities | specialist  |
 
 ### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
+### Here is unavailable service at center:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   body massage
+*   Gents related all are not available
 
-### And an ordered list:
+### And vailable service at center:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1.  waxing
+1.  Eye brow 
+1.  facial
+1.  Hair cuts
 
 ### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
+- Hair cuts
+  - Baby haircut
+  - Adult haircut
+    - Normal adult hair cut
+    - desgining haircut
+- facial
+  - Bleech facial
+  - Ayurvedic
+  - VLCC and other types of facial.
+- Makeups
+  - Normal makeup
+  - Brid makeup
 - level 1 item
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/shop.png)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://guides.github.com/activities/hello-world/logo.jpeg)
 
 
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
+<dt>PG Vijay laxmi</dt>
 <dd>Godzilla</dd>
 <dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>1984</dd>
+<dt>Hyderabad</dt>
+<dd>India</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
